@@ -43,97 +43,275 @@ namespace First_Summative
 
             formGraphics.Clear(Color.Black);
 
-           Thread.Sleep(500);
+           Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 28, 160, 10, 10);
 
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 106, 88, 10, 10);
 
-           Thread.Sleep(500);
+           Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 112, 204, 10, 10);
 
-           Thread.Sleep(500);
+           Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 192, 148, 10, 10);
 
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 192, 322, 10, 10);
 
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 264, 364, 10, 10);
 
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 336, 62, 10, 10);
 
-          Thread.Sleep(500);
+          Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 336, 90, 10, 10);
 
-           Thread.Sleep(500);
+           Thread.Sleep(100);
 
             formGraphics.FillEllipse(whiteBrush, 400, 145, 10, 10);
 
-           Thread.Sleep(500);
+           Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 53, 228, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 33, 196, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 51, 382, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 305, 47, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 347, 54, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 217, 90, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 45, 250, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 175, 446, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 65, 470, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 323, 92, 5, 5);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            Thread.Sleep(100);
 
-            formGraphics.FillEllipse(whiteBrush, 400, 145, 5, 5);
+            formGraphics.FillEllipse(whiteBrush, 47, 92, 5, 5);
 
+            Thread.Sleep(100);
 
+            formGraphics.FillEllipse(whiteBrush, 283, 318, 5, 5);
 
+            Thread.Sleep(100);
 
+            formGraphics.FillEllipse(whiteBrush, 325, 50, 5, 5);
 
+            Thread.Sleep(100);
 
+            formGraphics.FillEllipse(whiteBrush, 15, 315, 5, 5);
 
+            Thread.Sleep(100);
 
+            formGraphics.FillEllipse(whiteBrush, 55, 264, 5, 5);
 
+            Thread.Sleep(100);
 
+            formGraphics.FillEllipse(whiteBrush, 65, 55, 5, 5);
 
+            Thread.Sleep(100);
 
+            formGraphics.FillEllipse(whiteBrush, 40, 230, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 205, 190, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 140, 420, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 70, 560, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 125, 370, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 300, 300, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 325, 400, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 300, 500, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 236, 432, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 240, 15, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 350, 25, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 106, 30, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 350, 37, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 276, 100, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 389, 207, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 230, 645, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 30, 630, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 50, 600, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 60, 620, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 80, 625, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 90, 630, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 45, 580, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 30, 150, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 75, 180, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 89, 132, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 153, 176, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 35, 300, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 65, 173, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 15, 500, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 45, 585, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 85, 575, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 385, 560, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 390, 550, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 400, 550, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 430, 550, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 385, 500, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 250, 545, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 225, 535, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 275, 570, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 235, 550, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 216, 520, 5, 5);
+
+            Thread.Sleep(100);
+
+            formGraphics.FillEllipse(whiteBrush, 189, 568, 5, 5);
+
+            Thread.Sleep(1000);
 
             formGraphics.DrawLine(whitePen, 30, 165, 114, 90);
 
