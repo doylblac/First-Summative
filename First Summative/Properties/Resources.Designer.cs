@@ -61,12 +61,30 @@ namespace First_Summative.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _66136__theta4__ding30603_spedup {
+            get {
+                return ResourceManager.GetStream("_66136__theta4__ding30603_spedup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap phoenix {
             get {
                 object obj = ResourceManager.GetObject("phoenix", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream TaDa_ {
+            get {
+                return ResourceManager.GetStream("TaDa_", resourceCulture);
             }
         }
     }

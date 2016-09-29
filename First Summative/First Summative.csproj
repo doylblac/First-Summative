@@ -89,6 +89,15 @@
   <ItemGroup>
     <None Include="Resources\phoenix.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\66136__theta4__ding30603-spedup.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\256128__jimhancock__tada %281%29.aiff" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TaDa_.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
